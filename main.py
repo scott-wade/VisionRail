@@ -5,7 +5,7 @@ import numpy as np
 
 # Convert image to grayscale
 
-# Apply mask to image
+# Apply mask to image - Scott Wade
 
 # Normalize image
 
