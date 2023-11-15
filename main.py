@@ -3,9 +3,12 @@ import numpy as np
 
 # Open images
 print('Hello World')
+
+# Open background image - Scott Wade
+
 # Convert image to grayscale
 
-# Apply mask to image
+# Apply mask to image - Scott Wade
 
 # Normalize image
 
